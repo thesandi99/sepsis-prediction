@@ -1,0 +1,9 @@
+Sepsis is a life-threatening condition that occurs when the body’s response to an infection leads to tissue damage, organ failure, or death. Globally, around 30 million people develop sepsis each year, leading to an estimated 6 million deaths. Among the most vulnerable populations are newborns and children, with an estimated 20 million sepsis cases worldwide occurring in children under 5 years of age (WHO, https://www.who.int/news-room/fact-sheets/detail/sepsis ). In Europe, pediatric sepsis is a major concern, particularly in pediatric intensive care units (PICUs), where infection is one of the leading causes of morbidity and mortality in children.
+
+Although improvements in healthcare have reduced overall child mortality rates in Europe, pediatric sepsis remains a critical issue due to its rapid progression and the difficulty of early diagnosis. The economic impact of sepsis on European healthcare systems is significant as early detection is often missed, leading to higher rates of organ dysfunction, longer hospital stays, and increased mortality. Sepsis in children is also a major driver of PICU admissions, creating a substantial strain on healthcare resources.
+
+Early detection and timely administration of antibiotics are essential for improving outcomes in pediatric sepsis, as delays in treatment increase mortality rates. Each hour of delayed treatment has been associated with a 4-8% rise in mortality. Despite efforts to improve the clinical definitions and protocols for diagnosing sepsis, the challenge of early detection in pediatric patients persists, particularly in the face of diverse clinical presentations. New data-driven approaches are needed to enhance early detection and treatment, offering the potential to save lives and reduce healthcare costs.
+
+For more details on sepsis see this document.
+
+this adaption of yubase 
